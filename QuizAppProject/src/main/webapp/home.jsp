@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	This is the home page
+	<button>Add Books</button>
+	<button>Shop Books</button>
+
 </body>
 </html>
